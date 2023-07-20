@@ -1,0 +1,22 @@
+spring:
+   application:
+      name: order-service
+   mvc:
+      contentnegotiation:
+         defaultContentType: application/json
+
+server:
+   port: 7002
+
+eureka:
+   instance:
+      hostname: localhost
+      client:
+         register-with-eureka: true
+         fetch-registry: true
+      serviceUrl:
+         defaultZone : http://${eureka.instance.hostname}:8761/eureka/
+
+feign:
+   client:
+      url = http://localhost:7003

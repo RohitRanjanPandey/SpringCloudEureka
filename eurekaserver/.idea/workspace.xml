@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6be9f00a-6a49-40c3-b6c1-f5fe0b313173" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2SnF7qQIFoaJtfvOJQ8BGFy2XZE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="EurekaServerApplication" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.example.eurekaserver.EurekaServerApplication" />
+      <module name="eurekaserver" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6be9f00a-6a49-40c3-b6c1-f5fe0b313173" name="Default Changelist" comment="" />
+      <created>1689774273809</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689774273809</updated>
+      <workItem from="1689774275286" duration="134000" />
+      <workItem from="1689774481017" duration="96000" />
+      <workItem from="1689774582020" duration="751000" />
+      <workItem from="1689776474164" duration="2166000" />
+      <workItem from="1689860523971" duration="1222000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="304" y="161" width="1071" height="730" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1689774931645">
+      <screen x="0" y="25" width="1680" height="954" />
+    </state>
+    <state x="304" y="161" width="1071" height="730" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1680.954@0.25.1680.954" timestamp="1689774931645" />
+    <state x="577" y="320" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1689774916515">
+      <screen x="0" y="25" width="1680" height="954" />
+    </state>
+    <state x="577" y="320" key="#com.intellij.ide.util.TreeClassChooserDialog/0.25.1680.954@0.25.1680.954" timestamp="1689774916515" />
+    <state width="1578" height="253" key="GridCell.Tab.0.bottom" timestamp="1689861468783">
+      <screen x="0" y="25" width="1680" height="953" />
+    </state>
+    <state width="1578" height="253" key="GridCell.Tab.0.bottom/0.25.1680.953@0.25.1680.953" timestamp="1689861468783" />
+    <state width="1578" height="253" key="GridCell.Tab.0.bottom/0.25.1680.954@0.25.1680.954" timestamp="1689779621874" />
+    <state width="1578" height="253" key="GridCell.Tab.0.center" timestamp="1689861468782">
+      <screen x="0" y="25" width="1680" height="953" />
+    </state>
+    <state width="1578" height="253" key="GridCell.Tab.0.center/0.25.1680.953@0.25.1680.953" timestamp="1689861468782" />
+    <state width="1578" height="253" key="GridCell.Tab.0.center/0.25.1680.954@0.25.1680.954" timestamp="1689779621873" />
+    <state width="1578" height="253" key="GridCell.Tab.0.left" timestamp="1689861468782">
+      <screen x="0" y="25" width="1680" height="953" />
+    </state>
+    <state width="1578" height="253" key="GridCell.Tab.0.left/0.25.1680.953@0.25.1680.953" timestamp="1689861468782" />
+    <state width="1578" height="253" key="GridCell.Tab.0.left/0.25.1680.954@0.25.1680.954" timestamp="1689779621873" />
+    <state width="1578" height="253" key="GridCell.Tab.0.right" timestamp="1689861468783">
+      <screen x="0" y="25" width="1680" height="953" />
+    </state>
+    <state width="1578" height="253" key="GridCell.Tab.0.right/0.25.1680.953@0.25.1680.953" timestamp="1689861468783" />
+    <state width="1578" height="253" key="GridCell.Tab.0.right/0.25.1680.954@0.25.1680.954" timestamp="1689779621874" />
+  </component>
+</project>
