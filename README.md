@@ -15,5 +15,6 @@ To run this :
 * Go to http://localhost:8761/ - It will show the Eureka dashboard. Now you can see the application section which will show Order-Service and Product-Service
 * Go to the browser and verify the endpoints using - http://localhost:7002/orders
 
-**  Note - In this sample code I have removed the address from Feign client interface. Now the product service is discovered by the Eureka service registry and discovery.
-  If you see the application startup logs, you will see traces of Ribbon (A load balancer, default part of NetFlix Eureka) too.**
+**Note - In this sample code I have removed the address from Feign client interface. Now the product service is discovered by the Eureka service registry and discovery.
+  If you see the application startup logs, you will see traces of Ribbon (A load balancer, default part of NetFlix Eureka) too.
+**
